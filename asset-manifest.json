@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/sitelino/static/css/main.6dea0f05.chunk.css",
+    "main.js": "/sitelino/static/js/main.4631bdc8.chunk.js",
+    "main.js.map": "/sitelino/static/js/main.4631bdc8.chunk.js.map",
+    "runtime-main.js": "/sitelino/static/js/runtime-main.87552a35.js",
+    "runtime-main.js.map": "/sitelino/static/js/runtime-main.87552a35.js.map",
+    "static/js/2.96014d92.chunk.js": "/sitelino/static/js/2.96014d92.chunk.js",
+    "static/js/2.96014d92.chunk.js.map": "/sitelino/static/js/2.96014d92.chunk.js.map",
+    "static/js/3.2843dbeb.chunk.js": "/sitelino/static/js/3.2843dbeb.chunk.js",
+    "static/js/3.2843dbeb.chunk.js.map": "/sitelino/static/js/3.2843dbeb.chunk.js.map",
+    "index.html": "/sitelino/index.html",
+    "static/css/main.6dea0f05.chunk.css.map": "/sitelino/static/css/main.6dea0f05.chunk.css.map",
+    "static/js/2.96014d92.chunk.js.LICENSE.txt": "/sitelino/static/js/2.96014d92.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.87552a35.js",
+    "static/js/2.96014d92.chunk.js",
+    "static/css/main.6dea0f05.chunk.css",
+    "static/js/main.4631bdc8.chunk.js"
+  ]
+}
